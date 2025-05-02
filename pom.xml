@@ -13,6 +13,7 @@
         <module>Lesson_14</module>
         <module>Lesson_14_junit_5</module>
         <module>Lesson_14_testng</module>
+        <module>Lesson_14_junit_5</module>
     </modules>
 
     <properties>
