@@ -11,6 +11,8 @@
     <modules>
  mts-autotest
         <module>mts-autotest</module>
+ mts-auto
+        <module>mts-auto</module>
         <module>untitled</module>
         <module>Lesson_14</module>
         <module>Lesson_14_junit_5</module>
