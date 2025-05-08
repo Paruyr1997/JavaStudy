@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>mts-autotest</module>
+        <module>mts-auto</module>
     </modules>
 
     <properties>
