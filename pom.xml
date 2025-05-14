@@ -11,6 +11,8 @@
     <modules>
         <module>mts-autotest</module>
         <module>mts-auto</module>
+        <module>mts-auto/PostmanEcho</module>
+        <module>PostmanEcho1</module>
     </modules>
 
     <properties>
