@@ -4,6 +4,10 @@
  mts-autotest
     <file url="file://$PROJECT_DIR$/Lesson_14_testng/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lesson_14_testng/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PostmanEcho1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PostmanEcho1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mts-auto/PostmanEcho/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mts-auto/PostmanEcho/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mts-auto/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mts-auto/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mts-autotest/src/main/java" charset="UTF-8" />

@@ -13,12 +13,16 @@
         <module>mts-autotest</module>
  mts-auto
         <module>mts-auto</module>
+<<<<<< PostmanEcho
+        <module>mts-auto/PostmanEcho</module>
+        <module>PostmanEcho1</module>
         <module>untitled</module>
         <module>Lesson_14</module>
         <module>Lesson_14_junit_5</module>
         <module>Lesson_14_testng</module>
         <module>Lesson_14_junit_5</module>
  main
+>>>>>> main
     </modules>
 
     <properties>
